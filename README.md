@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rpbatacando
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Excel, SQL and Power Bi
+- 🌱 I’m currently learning Excel, SQL and Power BI
 - 💞️ I’m looking to collaborate on Data Analytics Fields
 - 📫 How to reach me 09194799848
 
